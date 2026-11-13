@@ -1,0 +1,9 @@
+# working data: captures, agent workspaces, build output, the capture queue
+qa/
+ws/
+dist/
+tools/queue/
+tools/merge.py
+tools/watchdog.py
+*.wav
+.DS_Store
