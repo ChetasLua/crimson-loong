@@ -2,6 +2,8 @@
 
 A 90-second dragon film that plays live in the browser from **one HTML file**.
 
+**Watch it live: https://chetaslua.github.io/crimson-loong/** (click once for sound)
+
 A red loong lies coiled on a karst spire above a valley of red maples and vermilion halls. A white loong pours out of a storm cloud, the two fight across the sky, plunge into the lake, and rise together after a pearl. Then it loops.
 
 ![Stills from the film](stills/v2-sheet.jpg)
@@ -15,7 +17,7 @@ A red loong lies coiled on a karst spire above a valley of red maples and vermil
 
 ## Watch it
 
-Open `index.html` in a desktop browser with WebGL 2.
+Use the live link above, or download `index.html` and open it in a desktop browser with WebGL 2. It runs straight from disk.
 
 | Input | Action |
 |---|---|
